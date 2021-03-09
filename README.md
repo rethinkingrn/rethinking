@@ -1,1 +1,3 @@
-# rethinking
+# Wack
+this site is from a template from google
+I kinda forgot how to html so....
